@@ -1,0 +1,97 @@
+Generative Ai
+Non- Generative AI Like : Descriminitive AI, Predictive AI, Traditional AI, Supervised Learning.
+
+Generative or non-generative?
+machine translation
+single word
+non-generative
+phrases and sentences
+generative
+question answering
+extract relevant quotes from a document
+non-generative
+answer in own words using knowledge from training
+generative
+text summarization
+generative
+text classification
+pre-defined, single word categories
+non-generative
+open ended labels with explanations
+generative
+qualitative scoring (numeric score of input text)
+number only
+non-generative
+number with own sub-categories, and explanations
+generative
+
+
+Models that are generative
+Large Language Models (LLMs)
+text
+Diffusion models
+Images
+stable diffusion by Stability AI DALL-E 3 by OpenAI Emu (Imagine) by Meta AI
+Generative Adversarial Networks
+Images
+
+Transformers
+Sequence models
+order matters
+"it's a piece of cake"
+language
+GATTACAGAGATATA
+DNA, RNA (genomic data)
+time series
+Recurrent neural network
+Transformer
+it's a piece of
+Transformer
+cake
+in series
+in parallel
+RNN
+cake
+it's a piece of
+
+Foundation Model
+task specific models
+-
+one model
+it's a piece of cake
+translation
+c'est du gâteau
+one Task
+"...I'll be back..."
+-
+summarization
+A robot becomes friends with a kid and his mom.
+"I took this online course, and it was fun!"
+sentiment
+9.5/10
+foundation model
+Translate to French: cake
+-
+gâteau
+generalize to many tasks
+Summarize this movie script: "...I'm the king of the world!..."
+-
+LLM
+-
+Two people fall in love on a big boat.
+Predict the rating of this review: "I took this online course, and it was a piece of cake!"
+one model
+
+
+What does GPT stand for?
+G
+Generative
+output new sequences of text
+P
+Pre-trained
+foundation model
+T
+Transformer
+neural net work architecture Sequence model
+
+

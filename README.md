@@ -1,4 +1,4 @@
-🤖 Introduction to Modern AI
+**🤖 Introduction to Modern AI**
 
 
 
@@ -9,7 +9,7 @@ It contains notes, resources, examples, and practical insights related to modern
 
 The goal of this repository is to organize my learning, explore AI concepts, and share helpful resources for beginners interested in AI, chatbots, and prompt engineering.
 
-📚 Topics Covered
+**📚 Topics Covered**
 
 🧠 Introduction to Artificial Intelligence
 
@@ -27,7 +27,7 @@ The goal of this repository is to organize my learning, explore AI concepts, and
 
 This section explores chatbot technologies and conversational AI.
 
-Topics include:
+**Topics include:**
 
 What chatbots are
 
@@ -79,10 +79,10 @@ Build a structured AI learning resource
 
 📈 This repository will be continuously updated as I progress through the Cisco Networking Academy AI course and learn new AI concepts.
 
-👨‍💻 Author
+**👨‍💻 Author**
 
 Saqlain
 🎓 Computer Systems Engineer – UET Peshawar
 💡 Interested in Artificial Intelligence, Data Science, and Technology
 
-⭐ If you find this repository helpful, consider starring it.
+*⭐ If you find this repository helpful, consider starring it.*

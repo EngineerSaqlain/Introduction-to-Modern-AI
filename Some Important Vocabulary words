@@ -90,8 +90,120 @@ output new sequences of text
 P
 Pre-trained
 foundation model
+
+
+
+
+
+
+
+Generative AI outputs are new, and can be one of many possible acceptable outputs, usually for an open-ended task or request. Generative AI outputs can be rich in features, and therefore can be used as inputs to other models, for other tasks, or for model training.
+
+Non-generative AI outputs come from a pre-defined set of possible outputs, and are often used in tasks where there is a single correct answer. Non-generative AI is referred to as discriminative AI, but also may be referred to as predictive AI, supervised learning, or traditional AI.
+
+Transformers: These are neural networks that are part of a broader category of “sequence models”, which are designed to handle sequences of data where the order matters. Transformers can process several words in text in parallel, allowing them to be more efficient. Transformers also perform better in practice compared to other sequence models.
+
+A foundation model is one that has learned enough about a domain (such as human language in text) that it can generalize to perform many tasks that it was not specifically trained to perform. A large language model is an example of a foundation model.
+
+Pre-training is the process of training a foundation model on a task that allows the foundation model to train on a large amount of data. In the case of a large language model, it is pre-trained to “predict the next word”, which is a task that allows it to train on a large set of text data, because the data does not need to humans to first label the training data.
+
+Instruction tuning is a process that trains a foundation model to not only predict the next word, but to do so in a way that is responding to an instruction, such as answering a question.
+
+GPT stands for Generative Pre-trained Transformer.
+
+
+Suggested practice:
+
+For a given language task, try to prompt a chatbot to behave similarly to a non-generative model. For example, prompt a chatbot to perform sentiment analysis by outputting a number between -1 and 1; or to label a piece of text with a label from a set of labels that you define. Or prompt a chatbot to answer a question by only extracting direct quotes from a given document.
 T
 Transformer
 neural net work architecture Sequence model
+
+Optional Reading:
+
+Try reading the original paper on GPT:
+https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf
+
+
+
+
+GPUs
+CPU (Central Processing Unit)
+runs the computer
+delegates
+GPU (Graphics Processing Unit)
+graphics
+video games
+machine learning
+< لا
+training inference
+math operations in parallel
+
+Retrieval Augmented Generation: Why?
+hallucination
+Who is Eddy Shyu?
+LLM
+Eddy is a musical entrepreneur who plays ping pong.
+domain specific information
+How do I operate the Mini Toaster Oven 3000z?
+LLM
+maybe read the manual?
+¯\_(ツ)_/
+needs more information
+limited context window
+[document 0001...]
+[document 99999]....
+LLM
+I forgot the middle
+TMI too much information
+
+Agents
+Making decisions and taking actions independently
+LLM
+Agent
+reflection
+Am I sure?
+Let me review my work
+tool use (taking actions)
+call the web search tool open up the calendar
+planning
+step 1: get vacation preferences
+step 2: search destinations
+step 3: search flights
+step 4: book flights
+collaboration  Multi AI Agents 
+writer
+editor
+LLM
+LLM
+Agent
+Agent
+
+
+
+
+Three kinds of model compression are quantization, distillation, and pruning.
+
+Quantization stores parameters in fewer bits, from 32 bits to 16 or 8 bits.
+
+Distillation trains a smaller model using the outputs from the larger, original model.
+
+Pruning identifies less important parameters in a model and sets them to zero, to save space.
+
+A GPU, a Graphics Processing Unit, is hardware that can perform math operations in parallel. A CPU can delegate tasks such as model training or inference to a GPU to perform the task more efficiently.
+
+Retrieval Augmented Generation (RAG): uses a vector database to store domain specific information, which helps a large language model answer domain specific questions.
+
+Fine-tuning a model on domain specific information allows it to answer questions or perform tasks with this domain specific information.
+
+Agents are large language models that are wrapped in additional code that allows them to make decisions and take actions independently.
+
+
+Additional reading:
+
+The Dawning Age of Agents:     https://www.deeplearning.ai/the-batch/the-dawning-age-of-agents/
+
+
+
 
 

@@ -236,6 +236,60 @@ Let’s do this one last time(https://www.youtube.com/watch?v=Xg4Pa3DORCE)
 I could do this all day(https://www.youtube.com/shorts/goms_M9LyLg)
 
 ***TAke ACtion: Tools***
+An LLM can output text that is formatted so that it can be interpreted by traditional software as a request to use a tool (call a function, such as perform a web search).
+
+For help with writing code, you can either attempt to write the code and ask a chatbot to revise it; or you can give an instruction in regular human language, asking the chatbot to write code based on your instruction. For example “write python code to print hello world.”
+
+For math tasks, consider asking an LLM to write code that you can run to perform those tasks, instead of asking the chatbot to perform the math task itself. This may give you more reliable results, and also more consistent results.
+
+If you get a chatbot to write useful code for you, then save that code somewhere so you can reuse it. The chatbot may not always output that same code twice.
+
+If you want to process a lot of text data into a table, consider asking an LLM to write code that does this, instead of asking the LLM to directly do this task. The code will run faster than having the LLM process that data directly. So it will scale better for processing a lot of text. You can also reuse that code later instead of asking the LLM to perform that task another time.
+
+
+Apps used
+
+Google Golab: https://colab.research.google.com/
+
+***Image Generation***
+Image generation abilities that you see built into chatbots are separate models from the large language model.
+
+Diffusion models are the main category of image generation models that most of the popular image generation tools use.
+
+
+Apps used:
+
+“Imagine” with Meta AI: https://www.meta.ai/icebreakers/imagine/
+
+“Dall-E 3” by Open AI: https://openai.com/index/dall-e-3/
+
+
+***Personal Assisstant***
+Personal assistants on a smartphone combine speech recognition with a language model that has access to tools (apps or functions on the phone).
+
+Tasks you can ask a personal assistant to perform include modifying your calendar, sending a text message, getting map or driving information, or opening an app.
+
+
+Apps discussed:
+
+Google Personal Assistant on Android phones
+
+Siri on iPhones
+
+Alexa on smartphone
+
+When prompting with an image, consider asking the chatbot to describe the image before performing the desired task. The model can use its description of the image to help it as it performs the task.
+
+
+Apps used on a smartphone:
+
+ChatGPT
+
+Gemini
+
+Claude
+
+Microsoft CoPilot
 
 
 

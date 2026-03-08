@@ -157,13 +157,85 @@ The chatbot as a grader may get the solution wrong as well, so try more than one
 
 
 ***Qualitative Scoring***
+For open ended essays, such a debate arguments, you can ask a chatbot to give a numeric score. First ask the chatbot to list out its criteria before giving its numeric score based on its listed criteria.
 
+Model graded evaluation: You can ask a chatbot to evaluate the quality of another chatbot’s output. Evaluation of other models, such as an image classifier, are more straightforward when there are only a few distinct categories for the output, or when the output of the model is a number. Large language models output open ended text, so evaluating them is more difficult because you don’t have a single “right answer” to compare it to. There is a lot to consider when evaluating the quality of chatbots, but one way to get started is to ask another chatbot to perform this evaluation.
+
+
+Apps used:
+
+Hugging Chat: Meta Llama, Qwen, Command R Plus, Phi, Mistral-Nemo
+
+Gemini: https://gemini.google.com/app
+
+Claude: https://claude.ai/chats
+
+ChatGPT: https://chatgpt.com/
 
 
 Suggested practice:
 
-If you are learning a language, try to write a letter to a friend in that language. Then ask a chatbot to help you revise it to be grammatically correct, and to use commonly used language or wording.
+Choose a debate topic. Have 2 or more chatbots give their opening statements. Start with having them all take the same position, so that it’s easier to compare. Have 2 or more chatbots play the role of judges. Read through the debate statements, and also the reasoning of the judges. Discuss what you agree or disagree with in how the chatbot judges come up with their decisions.
 
-Use speech recognition to draft a letter. Then ask a chatbot to help you revise it to clean up any errors due to speech recognition.
+
+***Chat: How its going***
+To encourage the chatbot to have a two-way conversation, consider the following instructions:
+
+“leave the conversation open for additional follow-ups”.
+
+To encourage the chatbot to only output what it wants you to read or hear, consider adding:
+
+“Do not output your internal monologue.”
+
+You can also give the chatbot a role that is suitable for the conversation. For instance, describe its role as a life coach in terms of how it responds to the client (active listening as opposed to problem solving).
+
+You can first get a sense of how the chatbot performs by default, and add more instructions to guide its behavior.
+
+
+Chatbots used:
+
+Phi, downloaded in LM Studio
+
+https://lmstudio.ai/
+
+***Chat: Mock Interview***
+Give the chatbot the role of an interviewer, and provide the job description.
+
+Describe the interviewer’s task: ask questions one at a time (instead of listing out all questions at once). Choose a limit to the number of questions the interviewer will ask before concluding the interview.
+
+Describe the interview process: Instruct the interviewer to ask follow-up questions based on the interviewee’s responses. Wait for the interviewee to respond before moving onto the next prepared interview question. (Sometimes a chatbot may ask both the follow up question and the next prepared question without giving the interviewee time to respond to the follow-up question). Conclude the interview after asking all prepared questions (and follow-up questions).
+
+Give feedback: ask the interviewer to give feedback and a numeric score for each answer to the prepared questions.
+
+
+Chatbots used:
+
+Gemma, downloaded with LM Studio
+
+https://lmstudio.ai/
+
+***Chat: Chatbot to chatbot collaboration chat***
+Editor: Sometimes the reviewer will rewrite the essay, which is not part of the role we want it to play, so you can instruct the editor chatbot not to rewrite the essay, and to focus on giving actionable feedback.
+
+Writer: Give the writer the freedom to accept or reject the feedback that it receives.
+
+Your role in overseeing the two chatbots is still important in making sure that the decisions they make are still reasonable. For instance, the reviewer chatbot may not catch when the writer proposes that it will make up facts in order to satisfy the requests of the editor.
+
+
+Chatbots used:
+
+Command R Plus by Cohere: https://coral.cohere.com/
+
+Mistral by Mistral AI: https://chat.mistral.ai/chat
+
+
+Cultural references:
+
+Let’s do this one last time(https://www.youtube.com/watch?v=Xg4Pa3DORCE)
+
+I could do this all day(https://www.youtube.com/shorts/goms_M9LyLg)
+
+***TAke ACtion: Tools***
+
 
 

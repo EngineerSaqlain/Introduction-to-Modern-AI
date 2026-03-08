@@ -1,3 +1,24 @@
 Write more words than you do in an ordinary web search. means give more details
 Break down your task into a sequence of subtasks.
 you can give what type of format you need to be in the output
+add some kind of expactation
+Add structure  (Delimitors)
+giving them some persona like you are an engineer or comedian and answer some questions
+
+
+Write more than you’re used to.
+
+Break into sub-tasks
+
+Set expectations (“if you’re not sure, say so”)
+
+Output format (table, list, bullet points)
+
+Add structure in the prompt (sub-headers, numbered lists, delimiters)
+
+Give the chatbot a persona (a role, style of communication)
+
+Give examples (few shot prompting)
+
+Ask a chatbot to review its work (reflect on its previous output)
+

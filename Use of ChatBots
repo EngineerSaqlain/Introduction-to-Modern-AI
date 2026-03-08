@@ -11,3 +11,159 @@ Fill in the blanks (describe what you’re thinking about to get the vocabulary 
 Clarify a question or confusion about a situation or an observation.
 
 **Generating Ideas**
+Ask for several options (plural) to get more than one suggestion.
+
+Suggested practice:
+
+Prompt a chatbot to help you analyze and create jokes
+
+that are similar to any of the following:
+
+option 1: “Did you know that if you eat a salad
+
+every time you would have otherwise eaten a piece of cake,
+
+you might see a ten percent reduction
+
+in how much you enjoy your life?”
+
+Option 2: “I wish I remembered what I was thinking when I was inside the box.”
+
+Option 3: “I wish I paid more attention in my first rodeo.”
+
+Option 4: Find a joke that you like and ask a chatbot to tell a similar joke!
+
+
+Chatbots used:
+
+ChatGPT: https://chatgpt.com/
+
+Mistral: https://chat.mistral.ai/chat
+
+**Synthesize: Summarize**
+
+Summarize
+extract relavent text
+attach an html file
+chatbot can identify related toics
+copy paste text
+check context log
+
+Apps used:
+
+NotebookLM: https://notebooklm.google.com/
+
+ChatGPT (Open AI): https://chatgpt.com/
+
+Claude (Anthropic): https://claude.ai/chats
+
+Command R Plus (Cohere): https://coral.cohere.com/
+
+Mistral: https://chat.mistral.ai/chat
+
+Gemini: https://gemini.google.com/app
+
+Meta AI: https://www.meta.ai/
+
+CoPilot: https://copilot.microsoft.com/
+
+**Labelizing**
+label group synthesize
+
+**Translation**
+
+new thing (morese code)
+You can ask a chatbot to translate to multiple languages at the same time.
+
+You can ask a chatbot to suggest multiple translations of the same phrase, and ask it which ones are more commonly used or spoken.
+
+You can use multiple chatbots to translate the same text, to compare the results.
+
+Suggested practice:
+
+Exercise 1
+
+Ask a chatbot to propose translations of an idiom and ask the chatbot to identify similar idioms in the target language. You can start with a language that you are more familiar with, then try this with a language that you are less familiar with and see if you can still prompt the chatbot to give a good translation. If you have a friend who speaks the target language, ask them what they think of the result!
+
+Some idioms that you can try:
+
+“every cloud has a silver lining”, “it’s a piece of cake!”, “I let the cat out of the bag”, “I’m on the same page”, “I bit off more than I can chew”.
+
+
+Exercise 2
+
+Download a language model using LM Studio and ask it to convert some text into morse code. Use another hosted chatbot to help you double check the results.
+
+
+Chatbots used in the lecture:
+
+https://copilot.microsoft.com/
+
+https://chat.mistral.ai/chat
+
+Gemma downloaded using LM Studio https://lmstudio.ai/.
+
+The upcoming lecture “Use Multiple Chatbots” will provide a walkthrough of how to use LM studio.
+
+
+
+**Rewording and Rewising Transform**
+
+you can have a chatbot reword an email, or document to be suitable for business communications. This can be helpful if you are communicating in a language that you are still learning.
+
+You can use speech recognition to draft you writing, and have a chatbot clean up the text to remove filler words or fix issues that arise when speaking into a speech recognition system, such as repeated phrases or filler words.
+
+You can ask a chatbot to help you rewrite a prompt, so you can send that revised prompt to the chatbot.
+
+
+Apps used:
+
+Command R Plus (Cohere): https://coral.cohere.com/
+
+Meta AI: https://www.meta.ai/
+
+
+
+
+
+***Ecaluate: Fact Checking***
+Reflection;
+asking chatbot are you correct
+You can ask a chatbot to fact check some content. It helps to get more than one chatbot’s feedback when fact-checking, and also helps to do some additional research on your own if a chatbot flags something as factually incorrect.
+
+It also helps to explicitly instruct the chatbot to “check the factually accuracy” instead of the more general question “is this correct?”
+
+You can ask a chatbot to fact check its previous completion. You can ask “Are you sure?”
+
+
+Apps used
+
+CoPilot: https://copilot.microsoft.com/
+
+Cohere: https://coral.cohere.com/
+
+Meta AI: https://www.meta.ai/
+
+
+Suggested practice:
+
+Ask a chatbot to fact check some claims about science or medicine. For instance, you can ask a chatbot what it thinks about the claim that “humans only use 10% of their brains.”
+
+EVALUATE***Grading***
+GRADER MAY ALSO BE WRONG
+o ask a chatbot to grade a student’s solution to a task, first ask the chatbot to work out the solution on its own. Then ask it to compare with the student’s solution. Then decide if the student’s solution is correct. Then, if the student’s solution is incorrect, ask it to give hints.
+
+The chatbot as a grader may get the solution wrong as well, so try more than one chatbot, and also review the results yourself to get an idea of what kinds of questions/problems each chatbot is able to properly grade.
+
+
+***Qualitative Scoring***
+
+
+
+Suggested practice:
+
+If you are learning a language, try to write a letter to a friend in that language. Then ask a chatbot to help you revise it to be grammatically correct, and to use commonly used language or wording.
+
+Use speech recognition to draft a letter. Then ask a chatbot to help you revise it to clean up any errors due to speech recognition.
+
+
